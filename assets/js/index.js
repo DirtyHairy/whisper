@@ -9,7 +9,6 @@
     $(document).ready(function(){
 
         $(".post-content").fitVids();
-        $(".site-head").parallax("50%", .7);
 
     });
 
