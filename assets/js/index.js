@@ -7,9 +7,8 @@
     "use strict";
 
     $(document).ready(function(){
-
         $(".post-content").fitVids();
-
+        hljs.initHighlightingOnLoad();
     });
 
 }(jQuery));
